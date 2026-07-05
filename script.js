@@ -2,7 +2,7 @@
 // Configuration
 // =====================
 const USE_BACKEND = true; // Set ke true untuk menggunakan Backend API Express + MySQL, false untuk LocalStorage
-const API_BASE_URL = 'http://localhost:3000/api';
+const API_BASE_URL = 'https://uasbackend-production-c6e3.up.railway.app/api';
 
 // =====================
 // Storage Module
