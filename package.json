@@ -1,0 +1,9 @@
+{
+  "name": "flixxmart-frontend",
+  "version": "1.0.0",
+  "description": "Frontend static server for FlixxMart on Railway",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx -y serve -s ."
+  }
+}
